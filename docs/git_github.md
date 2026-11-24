@@ -271,3 +271,9 @@ git add .
 git commit -m "Update test cases"
 git push
 ```
+
+## To change origin points to your repo
+
+```bash
+git remote set-url origin https://github.com/Narrai/playwright-opencart-ai.git
+```
